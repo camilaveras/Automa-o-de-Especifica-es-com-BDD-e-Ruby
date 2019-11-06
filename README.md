@@ -6,8 +6,9 @@ Teste automatizado BDD com Cucumber e Ruby
 Teste automatizado BDD com Cucumber e Ruby
 Este teste é apresentado como uma maneira de aplicar agilidade na rotina de testes do QA
 
-O Projeto
-Automatizar testes com plataformas utilizando o chrome, casos escritos para testar login, em suas mais variadas tentativas, após o teste é gerado um arquivo html, com o comando cucumber, depois com o comando ruby é tirando um print de cada pagina. E o mesmo é salvo e é chamado no formulario em HTML
+O Projeto:
+
+Ele deve ser utilizado para automatizar testes com plataformas, atraves de navegadores, por exemeplo utilizando o chrome, neste projeto utilizaei casos escritos para testar login, em suas mais variadas tentativas, após o teste é gerado um arquivo html, com o comando cucumber[...], depois com o comando retirado do ruby é tirando um print de cada pagina. E o mesmo é salvo e é chamado no formulario em HTML
 
 Pré-requisitos:
 Cucumber
